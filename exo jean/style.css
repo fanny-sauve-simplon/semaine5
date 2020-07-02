@@ -1,0 +1,19 @@
+.window{
+    height:60px;
+    width: 20%;
+    background-color: teal;
+}
+.door{
+    height:80px;
+    width:20%;
+    background-color: saddlebrown;
+}
+.building{
+    border: 2px solid;
+    background-color: silver;
+}
+.sol{
+    height:100px;
+    width:100%;
+    background-color: yellowgreen;
+}

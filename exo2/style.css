@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }
+.nav-link{
+    color:white
+}
+.jumbotron{
+    background:url("https://image.freepik.com/photos-gratuite/divers-tas-pates_176474-6159.jpg") center center;
+    background-size: cover;
+    height:20em;
+}
+.jumbotron-content{
+    color: black;
+}
